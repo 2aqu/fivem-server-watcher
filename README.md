@@ -1,4 +1,4 @@
 # server-watcher-fivem
-Fivem Platformu içerisinde sunucu listesini çektirebileceğiniz bir API ve front-end projeye dökmek istersiniz diye tamami ile JS ile hazırlanmış bir Back-End....
+A fully nodejs based Back-End that allows you to retrieve bring the server list within the Fivem Platform via API and to turn it into a front-end project...
 
-Mehmet Efe Sönmez
+Efe 'kxnsiz' Sönmez
